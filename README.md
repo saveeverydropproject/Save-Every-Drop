@@ -7,7 +7,7 @@
 - `project-objectives.pdf` – Objectives (EN + AR)
 
 ## Team
-The Eeagle Team
+The Eagle Team
 
 ## License
 Open for viewing and learning; please contact us for reuse permissions.
