@@ -5,6 +5,7 @@
 ## Contents
 - `team-and-tasks.pdf` – Project team + shared task checklist  
 - `project-objectives.pdf` – Objectives (EN + AR)
+- `Water Saving Project brain storming version 1.zip` – First brainstorming package (scripts, storyboard, sketches, proposed animation style)
 
 ## Team
 The Eagles Team
