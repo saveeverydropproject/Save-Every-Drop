@@ -10,6 +10,7 @@
 - `waterdrop-styles.zip` — includes all the suggested Water Drop character designs, facial expressions, and outfits that will be used in the project.
 - `everydrop-project-updates-24-10-25.zip` — Updated project package including storyboard, voice-over script, scene preparation files.
 - `Scenes on illustrator and voice over` – Modified scenes and adjusted voice-over 
+- `save-every-drop-video-trailer` – teaser video for the upcoming Save Every Drop motion graphics project
 
 ## Team
 The Eagles Team
