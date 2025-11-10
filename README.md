@@ -12,7 +12,7 @@
 - `Scenes on illustrator and voice over` – Modified scenes and adjusted voice-over 
 - `save-every-drop-video-trailer` – teaser video for the upcoming Save Every Drop motion graphics project
 - `The-profile-of-the-project-on-behance` – PDF file with the Behance link to the Save Every Drop motion graphics project -
-- 
+
 ## Team
 The Eagles Team
 
